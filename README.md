@@ -23,6 +23,8 @@ This repository contains the **Project Management Plan** for MedicFinder, includ
 
 ## 📎 Links
 - [Trello Board](https://trello.com/b/TskT4lsg/medicfinder-project-plan)
+- <img width="959" height="443" alt="image" src="https://github.com/user-attachments/assets/f9033870-eb3e-4810-84d7-24931aa7d4ea" />
+
 - Notion Docs : https://app.notion.com/p/MedicFinder-Project-Plan-3de4a86f98088017aa42fa0c00562d09?source=copy_link
 
 ---
